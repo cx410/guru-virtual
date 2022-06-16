@@ -1,0 +1,294 @@
+{
+  "intents": [
+    {
+      "tag": "Salam Pertemuan",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Bagaimana kabar kalian Gaes?"
+      ],
+      "responses": [
+        "Hey :-)",
+        "sungguh luar biasa baik"
+      ]
+    },
+    {
+      "tag": "Berita I",
+      "patterns": [
+         "Apa yang dimaksud dengan berita?"
+      ],
+      "responses": [
+        "Berita adalah suatu teks yang menyampaikan kabar atau informasi kepada masyarakat tentang suatu peristiwa atau kejadian faktual dan aktual yang diinformasikan secara tertulis.Faktual karena teks tersebut ditulis berdasarkan kenyataan. Sementara aktual artinya kejadian tersebut baru saja terjadi. Dapat disimpulkan bahwa teks berita adalah teks yang berisi tentang segala kejadian atau peristiwa yang baru saja terjadi dan sedang hangat diperbincangkan oleh masyarakat."
+      ]
+    },
+   {
+      "tag": "Berita II",
+      "patterns": [
+         "Apa saja struktur Teks Berita"
+      ],
+      "responses": [
+        "Perhatikan kembali teks - teks berita pada bagian sebelumnya ataupun teks berita lain telah kamu simak / baca dari sumber lain . Berdasarkan struktur yang atau susunannya , teks - teks tersebut dapat kita kelompokkan ke dalam dua bagian . yakni berupa informasi yang penting dan informasi yang tidak penting . Informasi penting disebut juga pokok - pokok informasi atau unsur - unsur berita ( utama ) . Dalam ilmu jurnalistik atau ilmu persuratkabaran , pokok - pokok informasi terangkum dalam rumus 5W + 1H . Dalam bahasa Indonesia . pokok pokok informasi itu dapat pula disingkat dengan ADIKSIMBA ( Apa . Di mana Slapa , Mengapa . Bagaimana ) ."
+      ]
+    },   
+    {
+      "tag": "Iklan I",
+      "patterns": [
+         "Apa yang dimaksud dengan iklan?"
+      ],
+      "responses": [
+         "Iklan merupakan salah bagian dari industri perdagangan . Dalam hal ini perusahaan - perusahaan ataupun perorangan menawarkan barang atau jasa yang dimilikinya melalui iklan . Secara umum iklan dapat diartikan sebagai pemberitahuan yang bertujuan mendorong atau membujuk khalayak . Dengan iklan tersebut kamu sebagai anggota masyarakat terbujuk untuk membeli barang atau jasa yang diberitahukan itu ."
+      ]
+    },
+     {
+      "tag": "Iklan II",
+      "patterns": [
+         "Apa yang kamu ketahui tentang Slogan?"
+      ],
+      "responses": [
+         
+         "Slogan adalah perkataan atau kalimat pendek yang dipakai sebagai dasar tuntuntan ( pegangan hidup ) ; prinsip utama dari suatu usaha , organisasi , dan sebagainya . Slogan sering pula disebut moto atau semboyan . Slogan lebih mengutamakan kepadatan makna dan kehematan kata - kata."
+      ]
+    },
+     {
+      "tag": "Iklan III",
+      "patterns": [
+         "Apa yang kamu ketahui tentang Poster?"
+      ],
+      "responses": [
+          "Poster adalah plakat ( kata - kata dan gambar ) yang dipajang di tempat tempat umum . Poster hampir sama dengan iklan , yakni pemberitahuan suatu ide , hal baru , atau hal penting kepada khalayak . Poster mengandalkan perpaduan gambar dan kata - kata . Poster lazimnya dipasang di tempat tempat umum . Poster hampir sama dengan iklan ataupun slogan dalam hal bahasanya . Poster menggunakan kata - kata singkat , jelas , menarik , dan lengkap."
+      ]
+    },
+     {
+      "tag": "Iklan IV",
+      "patterns": [
+         "Unsur - Unsur apa saja pembentuk iklan?"
+      ],
+      "responses": [
+          "Unsur - unsur pembentuk iklan meliputi sumber , pesan , media , penerima , efek , umpan balik , dan konteks ."
+      ]
+    },
+     {
+      "tag": "Iklan V",
+      "patterns": [
+         "Kaidah kebahasaan teks iklan"
+      ],
+      "responses": [
+          "Teks iklan bertujuan menawarkan produk , baik berupa barang maupun jasa. Oleh karena itu , kata - kata yang muncul umumnya bersifat persuasif , bujukan , atau dorongan tentang suatu kebiasaan ataupun gaya hidup. Pernyataan - pernyataan dalam teks iklan umumnya bersifat imperatif , yakni permintaan , ajakan , dorongan , atau larangan . Adapun kalimat imperatif itu sendiri ditandai oleh kata - kata seperti temukan. Kata lainnya adalah ikutilah, hadirilah, wujudkan, nyatakan, nikmati, sebaiknya, marilah, ayo, dan janganlah. Bahasa iklan sering kali menggunakan bahasa sederhana, mudah diingat, dan mudah pula dipahami. Kalimat yang panjang, dan berbelit - belit, selalu dihindari dalam iklan. Justru bahasa yang akrab di tengah - tengah khalayak itulah yang sering digunakan di samping memberikan kesan positif tentang produk yang ditawarkan. Pilihan kata yang berima dan memiliki banyak persamaan bunyi juga merupakan pilihan penting di dalam bahasa iklan. Di samping itu, bahasa iklan harus singkat sehingga mudah diingat oleh khalayak. Bahkan, iklan baris dituntut untuk lebih efisien di dalam penggunaan kata kata dan huruf - hurufnya . Iklan baris mengutamakan keefesien kata. Di dalam iklan baris sering dijumpai penyingkatan kata. Berikut beberapa singkatan yang sering digunakan dalam iklan baris beserta kepanjangannya."
+      ]
+    },
+    {
+      "tag": "Teks Eksposisi I",
+      "patterns": [
+        "Apa yang dimaksud dengan fakta?"  
+      ],
+      "responses": [
+        "Fakta adalah (keadaan, peristiwa) yang merupakan kenyataan; sesuatu yang benar-benar ada atau terjadi. Dalam teks eksposisi, fakta berfungsi untuk memperkuat gagasan sehingga diharapkan lebih meyakinkan khalayak."
+      ]
+    },
+    {
+      "tag": "Teks Eksposisi II",
+      "patterns": [
+        "Pola apa sajakah yang dapat digunakan di dalam pengembangan teks eksposisi?"
+      ],
+      "responses": [
+        "Pola umum khusus, Pola khusus umum, Pola ilustrasi, Pola perbandingan."
+      ]
+    },
+    {
+      "tag": "Teks Eksposisi III",
+      "patterns": [
+        "Berdasarkan letak gagasan umumnya, paragraf terbagi ke dalam beberapa jenis apa sajakah itu?"
+      ],
+      "responses": [
+        "Paragraf Deduktif, Paragraf Induktif, Paragraf Campuran. "
+      ]
+    },
+    {
+      "tag": "Teks Eksposisi IV",
+      "patterns": [
+        "Apa yang dimaksud dengan Tesis?"
+      ],
+      "responses": [
+        "Tesis, yakni berupa pengenalan isu, masalah, ataupun pandangan penulis secara umum tentang topik yang akan dibahasnya."
+      ]
+    },
+    {
+      "tag": "PUISI I",
+      "patterns": [
+        "Apa yang dimaksud dengan puisi?"
+      ],
+      "responses": [
+        "Puisi yaitu teks atau karangan yang mengungkapkan pikiran dan perasaan dengan mengutamakan keindahan kata - kata. Puisi mengungkapkan berbagai hal. Kerinduan, kegelisahan, atau pengagungan kepada sang Khalik yang kamu ungkapkan dalam bahasa indah. Hanya saja kamu jarang menyadarinya bahwa itu adalah puisi. Jika hendak mengagungkan keindahan alam, kamu dapat menggunakan pilihan kata yang khas. Kata - kata itu kamu pilih sehingga dapat mewakili dan memancarkan keindahan alam yang kamu kagumi itu."
+      ]
+    },
+    {
+      "tag": "PUISI II",
+      "patterns": [
+        "Jelaskan salah satu unsur-unsur puisi?"
+      ],
+      "responses": [
+        "Majas ( figurative language ) adalah bahasa kias yang dipergunakan untuk menciptakan kesan tertentu bagi penyimak atau pembacanya. Untuk menimbulkan kesan - kesan tersebut, bahasa yang dipergunakan berupa perbandingan, pertentangan, perulangan, dan perumpamaan."
+      ]
+    },
+    {
+      "tag": "Urutan Cerita Menarik Dalam Eksplanasi I",
+      "patterns": [
+        "Apa yang kamu ketahui tentang Teks Eksplanasi?"
+      ],
+      "responses": [
+        "Teks eksplanasi merupakan sebuah teks yang berisi tentang proses bagaimana dan mengapa sebuah fenomena bisa terjadi. Fenomena tersebut dapat berupa fenomena alam, sosial, ilmu pengetahuan, dan budaya tertentu yang terjadi di kehidupan sehari-hari."
+      ]
+    },
+    {
+      "tag": "Urutan Cerita Menarik Dalam Eksplanasi II",
+      "patterns": [
+        "Ciri-ciri Teks Eksplanasi"
+      ],
+      "responses": [
+        "Informasi yang dimuat berdasarkan fakta (faktual).",
+        "Hal yang dibahas merupakan fenomena yang bersifat keilmuan atau berhubungan dengan ilmu pengetahuan.",
+        "Bersifat informatif dan tidak berusaha mempengaruhi pembaca terhadap apa yang dibahas.",
+        "Bersifat generik atau fokus pada hal umum, bukan partisipan manusia. Contoh: bencana longsor, gempa bumi, gunung meletus, dll.",
+        "Menggunakan kata penanda urutan. Contoh: pertama, kedua, ketiga, dan sebagainya."
+      ]
+    },
+    {
+      "tag": "Urutan Cerita Menarik Dalam Eksplanasi III",
+      "patterns": [
+        "Struktur Teks Eksplanasi"
+      ],
+      "responses": [
+        "Pernyataan umum,teks eksplanasi menjelaskan tentang gambaran umum sebuah  fenomena atau peristiwa alam yang akan dibahas. Di bagian ini dijelaskan tentang proses bagaimana fenomena alam tersebut dapat terjadi.",
+        "Rangkaian kejadian, Pada bagian ini dapat mendeskripsikan dalam beberapa paragraf terkait sebab dan akibatnya. Struktur teks eksplanasi rangkaian kejadian dapat disebut juga sebagai deretan penjelas.",
+        "Interpretasi, interpretasi dalam teks eksplanasi disebut juga penarikan kesimpulan. Pada bagian ini dapat berisi tanggapan atau pernyataan terkait fenomena yang sedang dibahas."
+      ]
+    },
+    {
+      "tag": "Urutan Cerita Menarik Dalam Eksplanasi IV",
+      "patterns": [
+        "Kaidah Kebahasaan Teks Eksplanasi"
+      ],
+      "responses": [
+        "Menggunakan konjungsi kausalitas, antara lain, sebab, karena, oleh sebab itu, oleh karena itu, sehingga.",
+        "Menggunakan konjungsi kronologis (hubungan waktu), seperti kemudian, lalu, setelah itu, pada akhirnya.",
+        "Menggunakan kata benda yang merujuk pada jenis fenomena, bukannya pada kata ganti penceritanya. Kata ganti yang dimaksud, misalnya, Kabupaten Bandung, burung, gerhana, kesenian daerah, perkembangan budaya Papua.",
+        "Di dalam teks itu pun sering dijumpai kata teknis atau peristilahan, sesuai dengan topik yang dibahasnya."
+      ]
+    },
+    {
+      "tag": "Urutan Cerita Menarik Dalam Eksplanasi V",
+      "patterns": [
+        "Langkah-langkah penyusunan Teks Eksplanasi"
+      ],
+      "responses": [
+        "Menentukan topik atau suatu kejadian yang menarik, dikuasai, dan aktual.",
+        "Menyusun kerangka teks, yakni dengan mengembangkan topik utama ke dalam rincian-rincian topik yang lebih spesifik. Topik-topik itu dapat disusun dengan urutan kronologis atau kausalitas.",
+        "Mengumpulkan bahan, berupa fakta atau pendapat para ahli terkait dengan kejadian yang dituliskan dari berbagai sumber, misalnya melalui observasi lapangan ataupun dengan studi literatur.",
+        "Mengembangkan kerangka yang telah disusun menjadi teks eksplanasi yang lengkap dan utuh dengan memperhatikan struktur bakunya: identifikasi fenomena/kejadian, proses kejadian, dan ulasan. Perhatikan pula kaidah-kaidah kebahasaan yang berlaku pada teks ekspalansi."
+      ]
+    },
+    {
+      "tag": "Teks Ulasan I",
+      "patterns": [
+        "Apa yang dimaksud dengan Teks Ulasan"
+      ],
+      "responses": [
+        "Teks ulasan merupakan suatu teks yang berisi pembahasan ataupun penilaian terhadap suatu buku atau karya-karya lain. Teks ulasan disusun berdasarkan tafsiran maupun pemahaman atas isi buku yang dibaca. Berbeda dengan menafsirkan terhadap teks lain yang lebih tertuju pada kepentinganmu sendiri, penyusunan ulasan selalu ditujukan untuk kepentingan orang lain."
+      ]
+    },
+    {
+      "tag": "Teks Ulasan II",
+      "patterns": [
+        "Struktur Teks Ulasan"
+      ],
+      "responses": [
+        "Identitas karya dalam novel Atheis mencakup judul, pengarang, penerbit, tahun terbit, tebal halaman, dan ukuran buku. Bagian ini mungkin saja tidak dinyatakan secara langsung. Hal itu seperti yang tampak pada teks ulasan film dan lagu.",
+        "Orientasi dalam paragraf pertama, yakni dengan menjelaskan keberadaannya sebagai novel yang mendapat penghargaan, sekaligus mendapat perhatian yang cukup besar dari banyak kalangan.",
+        "Sinopsis berupa ringkasan yang menggambarkan pemahaman penulis terhadap isi novel.",
+        "Analisis berupa paparan tentang keberadaaan unsur-unsur cerita, seperti tema, penokohan, dan alur.",
+        "Evaluasi berupa paparan tentang kelebihan dan kekurangan suatu karya."
+      ]
+    },
+    {
+      "tag": "Teks Ulasan III",
+      "patterns": [
+        "Kaidah Kebahasan Teks Ulasan"
+      ],
+      "responses": [
+        "Banyak menggunakan konjungsi penerang, seperti bahwa, yakni, yaitu.",
+        "Banyak menggunakan konjungsi temporal, seperti sejak, semenjak, kemudian, akhirnya.",
+        "Banyak menggunakan konjungsi penyebab, seperti karena, sebab.",
+        "Menggunakan pernyataan-pernyataan yang berupa saran atau rekomendasi pada bagian akhir teks."
+      ]
+    },
+    {
+      "tag": "Teks Persuasif I",
+      "patterns": [
+        "Pengertian Teks Persuasif"
+      ],
+      "responses": [
+        "Teks persuasif adalah teks yang bertujuan untuk membujuk atau mengajak orang lain agar mengikuti pemikiran atau tindakan tertentu. Dengan kata lain, teks persuasif berusaha menyampaikan maksud tertentu kepada pembaca agar dapat melaksanakan atau menerima apa yang menjadi gagasan penulis atas suatu pendapat."
+      ]
+    },
+    {
+      "tag": "Teks Persuasif II",
+      "patterns": [
+        "Ciri Teks Persuasif"
+      ],
+      "responses": [
+        "Berisi data dan fakta, Meyakinkan pembaca, Berisi kata-kata ajakan, Menghindari konflik."
+      ]
+    },
+    {
+      "tag": "Teks Persuasif III",
+      "patterns": [
+        "Kaidah-kaidah kebahasaan Teks Persuasif."
+      ],
+      "responses": [
+        "Menggunakan kata-kata teknis atau peristilahan yang berkenaan dengan topik yang dibahas. Berkaitan dengan permasalahan remaja, digunakan kata-kata yang relevan dengan masalah itu, seperti teknologi internet, reproduksi, aborsi.",
+        "Menggunakan kata-kata penghubung yang argumentatif. Misalnya, jika, sebab, karena, dengan demikian, akibatnya, oleh karena itu."
+      ]
+    },
+    {
+      "tag": "Drama I",
+      "patterns": [
+        "Pengertian Drama."
+      ],
+      "responses": [
+        "Drama adalah sebuah jenis karya sastra yang menceritakan sebuah kisah, watak, tingkah laku manusia lewat peran serta dialog yang ditunjukkan di atas panggung. Kisah dan cerita dalam drama terkandung konflik serta emosi yang bertujuan guna mempengaruhi orang yang melihat atau mendengar drama itu. Naskah drama diperankan oleh aktor yang mempunyai kemampuan guna menyajikan konflik serta emosi secara utuh."
+      ]
+    },
+    {
+      "tag": "Drama II",
+      "patterns": [
+        "Unsur-Unsur Drama."
+      ],
+      "responses": [
+        "Tema: Gagasan utama atau ide pokok yang ada pada cerita drama.",
+        "Alur: Jalan cerita dari suatu drama, mulai dari babak awal sampai babak akhir.",
+        "Tokoh: Karakter dalam drama yang terdiri dari tokoh utama serta tokoh pembantu.",
+        "Watak: Tingkah laku para tokoh yang ada pada drama: watak baik (protagonis) serta watak jahat (antagonis).",
+        "Latar: Gambaran tentang tempat, waktu, serta kondisi yang terjadi dalam drama.",
+        "Amanat: Pesan yang mau digambarkan pengarang drama kepada penonton lewat cerita drama."
+      ]
+    },
+    {
+      "tag": "Drama III",
+      "patterns": [
+        "Pengertian Drama Tradisional."
+      ],
+      "responses": [
+        "Drama yang dipertunjukkan yang mana para pemeran tidak memakai naskah ketika ada di panggung. Dalam hal tersebut, pemeran membaca gambaran cerita secara umum lalu berimprovisasi sesuai terhadap peran masing-masing."
+      ]
+    },
+    {
+      "tag": "Drama IV",
+      "patterns": [
+        "Pengertian Drama Modern."
+      ],
+      "responses": [
+        "Drama yang digambarkan dimana para pemeran memakai naskah ketika ada di panggung. Tapi, para pemeran bisa berimprovisasi pada kejadian-kejadian tertentu."
+      ]
+    }
+  ]
+}
