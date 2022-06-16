@@ -20,7 +20,7 @@ This repo currently contains the starter files.
 Clone repo and create a virtual environment
 ```
 $ git clone https://github.com/cx410/guru-virtual.git
-$ cd chatbot-deployment
+$ cd guru-virtual
 $ python -m venv venv
 $ venv\Scripts\activate
 ```
